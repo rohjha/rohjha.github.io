@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{research.html}, notime
+==Research Publications
+
+== Workshop Papers and Technical Reports
+. *Raunak Kumar* and Mark Schmidt. "/Convergence Rate of Expectation-Maximization/". /10th Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning/. 2017
+. Devon R. Graham\* and *Raunak Kumar\**. "/Approximating Steiner Trees in the Semi-Streaming Model/". /CPSC 536N Course Project, University of British Columbia/. 2017
+

@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Rohan Jha
+# ~~~
+# Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
+# See the [revision.html release notes].
+# ~~~
+~~~
+{}{img_left}{documents/images/rohan2.jpg}{Rohan Jha}{333px}{395px}
+
+I'm a fourth-year undergraduate at Brown University, where I'm advised by [https://cs.brown.edu/people/epavlick/ Prof. Ellie Pavlick]. I study computer science and math.
+
+I interested in natural language processing and understanding neural networks. In particular, I'm working on: (1) when deep models learn simple, low-hanging heuristics, as opposed to generalizable rules and (2) whether models can predict linguistic phenomena like implicature. I'm also interested in theoretical computer science (especially theoretical deep learning) and climate science, climate change, and sustainability.
+
+My email is rohan<underscore>jha<at>brown<dot>edu. I'm also on [https://www.linkedin.com/in/rohan-jha-10661b12b/ LinkedIn] and [https://github.com/rohjha GitHub].
+~~~

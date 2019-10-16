@@ -1,0 +1,6 @@
+# jemdoc: menu{MENU}{./publications.html}, notime
+==Publications
+
+. *Raunak Kumar\**, Paul Liu\*, Moses Charikar and Austin R. Benson. "Retrieving Top Weighted Triangles in Graphs". In: /Proceedings of the 13th ACM International Conference on Web Search and Data Mining (WSDM)/. 2020. [https://arxiv.org/pdf/1910.00692.pdf \[pdf\]] [https://github.com/raunakkmr/Retrieving-top-weighted-triangles-in-graphs \[code\]]
+. *Raunak Kumar* and Mark Schmidt. "Convergence Rate of Expectation-Maximization". In: /10th Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning/. 2017. [documents/papers/kumar2017convergence.pdf \[pdf\]]
+. Devon R. Graham\* and *Raunak Kumar\**. /Approximating Steiner Trees in the Semi-Streaming Model/. Tech. rep. CPSC 563N Course Project. University of British Columbia, 2017. [documents/papers/graham2017approx.pdf \[pdf\]]
