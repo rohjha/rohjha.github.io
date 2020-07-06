@@ -13,7 +13,7 @@
 
 == Miscellaneous
 
-- (2019) A classmate and I completed an analysis of the effects of climate change on afternoon rainfall in the US for a geology course with [https://www.brown.edu/academics/institute-environment-society/people/details/jung-eun-lee Jung-Eun Lee].
+- (2019) A classmate and I completed an analysis (*[documents/pdfs/climate.pdf here]*) of the effects of climate change on afternoon rainfall in the US for a geology course with [https://www.brown.edu/academics/institute-environment-society/people/details/jung-eun-lee Jung-Eun Lee].
 
 - (2018) I wrote much of the battery charging logic (*[https://github.com/BrownSpaceEngineering/EQUiSatOS/blob/master/EQUiSatOS/EQUiSatOS/src/rtos_tasks/battery_charging_task.c here]*) for [https://brownspace.org/equisat/ EQUiSat], the second-cheapest satellite in history and Rhode Island's first satellite. EQUiSat is currently in orbit and is alive and well.
 
